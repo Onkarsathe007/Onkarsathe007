@@ -1,18 +1,4 @@
-# Welcome to Onkar Sathe's profile! <a href="https://www.onkarsathe.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-<a href="https://www.linkedin.com/in/onkar-sathe-141257231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-sathe-141257231" height="30" width="40" /></a>
-&nbsp;
-
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
-&nbsp;
-
-<a href="https://www.instagram.com/theonkarsathe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/onkarsathe/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
-
-
+# 👋 Hi there, I’m Onkar Sathe!
 
 ![Welcome banner](https://github.com/onkarsathe007/onkarsathe007/blob/main/banner.png) <!-- Optional image banner -->
 
@@ -31,4 +17,3 @@
 ### 🎉 Fun Facts
 - 🌍 I love exploring the intersection between technology and nature
 - 📚 When I'm not coding, you can find me reading or exploring new places!
-
