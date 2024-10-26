@@ -1,4 +1,4 @@
-# Welcome to [Onkar sathe's (https://onkarsathe.me/) profile! <a href="https://www.onkarsathe.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Onkar Sathe's profile! <a href="https://www.onkarsathe.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/onkar-sathe-141257231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-sathe-141257231" height="30" width="40" /></a>
 &nbsp;
