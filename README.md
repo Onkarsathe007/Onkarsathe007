@@ -1,6 +1,5 @@
 # 👋 Hi there, I’m Onkar Sathe!
 
-![Welcome banner](https://github.com/onkarsathe007/onkarsathe007/blob/main/banner.png) <!-- Optional image banner -->
 
 - 🌱 Currently learning: **Data Science and AI**
 - 👯 Open to collaborating on exciting projects
