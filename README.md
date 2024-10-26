@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Onkar Sathe!
 
-<a href="https://www.linkedin.com/in/onkar-sathe-141257231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/onkarsathe007/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Onkar-Sathe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/onkar-sathe-141257231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-sathe-141257231" height="30" width="40" /></a>
 &nbsp;
 &nbsp;
 <a href="https://www.instagram.com/theonkarsathe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
