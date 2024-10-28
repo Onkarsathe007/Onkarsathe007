@@ -1,4 +1,7 @@
-# 👋 Hi there, I’m Onkar Sathe!
+
+<p align="center">
+  <img src="assets/header.png"/>
+</p># 👋 Hi there, I’m Onkar Sathe!
 
 
 - 🌱 Currently learning: **Data Science and AI**
