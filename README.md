@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="assets/header.png"/>
-</p># 👋 Hi there, I’m Onkar Sathe!
-
-
 - 🌱 Currently learning: **Data Science and AI**
 - 👯 Open to collaborating on exciting projects
 - 🎯 Goal: Building impactful projects to solve real-world problems
