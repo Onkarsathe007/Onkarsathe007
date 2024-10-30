@@ -1,8 +1,6 @@
 - 🌱 Currently learning: **Data Science and AI**
 - 👯 Open to collaborating on exciting projects
 - 🎯 Goal: Building impactful projects to solve real-world problems
-## Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onkarsathe007&theme=default)
 
 ### 🛠 Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +13,10 @@
 
 ### 📊 GitHub Stats
 ![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarsathe007&show_icons=true&theme=dark)
+
+## Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onkarsathe007&theme=default)
+
 
 ### 🎉 Fun Facts
 - 🌍 I love exploring the intersection between technology and nature
