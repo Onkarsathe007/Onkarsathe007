@@ -11,9 +11,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-### 📊 GitHub Stats
-![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarsathe007&show_icons=true&theme=dark)
-
 ## Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onkarsathe007&theme=default)
 
