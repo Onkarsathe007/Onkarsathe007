@@ -16,5 +16,5 @@
 
 
 ### 🎉 Fun Facts
-- 🌍 I love exploring the intersection between technology and nature
+- 🌍 I love exploring the intersection between technology and nature.
 - 📚 When I'm not coding, you can find me reading or exploring new places!
