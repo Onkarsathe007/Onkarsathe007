@@ -31,8 +31,4 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
-
-### 🎉 Fun Facts
-- 🌍 I love exploring the intersection between technology and nature.
-- 📚 When I'm not coding, you can find me reading or exploring new places!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
