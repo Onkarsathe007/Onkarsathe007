@@ -31,4 +31,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+[![wakatime](https://wakatime.com/badge/user/4d06c790-b48b-477d-adca-4ccb2c371fe1.svg)](https://wakatime.com/@4d06c790-b48b-477d-adca-4ccb2c371fe1)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
