@@ -7,6 +7,8 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkarsathe007&custom_title=Onkar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
+.. image:: https://wakatime.com/share/@onkarsathe/ec83cb07-c8ef-46f4-bcab-935db52be215.png
+    :target: https://wakatime.com/
  <table>
   <tr>
     <td>
