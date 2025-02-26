@@ -15,7 +15,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onkarsathe96k)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theonkarsathe/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/theonkarsathe)
-[![Learning Account](https://img.shields.io/badge/GitHub%20Learning-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-learning-account>)
+[![Learning Account](https://img.shields.io/badge/GitHub%20Learning-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onkars-codebook)
 
 
 
