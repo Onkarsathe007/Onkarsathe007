@@ -8,5 +8,3 @@
     <a href="mailto:onkarsathe96k@gmail.com">Email</a>
   </samp>
 </p>
-### 🎵 Now Playing on Spotify
-![Spotify Recently Played](https://spotify-github-profile.vercel.app/api/view?uid=31oz2ym347gkf77tfcw5stgnkohq&cover_image=true&theme=default)
