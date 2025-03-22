@@ -1,0 +1,56 @@
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Spotify Data
+        uses: jacc/music-box-action@latest
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated Spotify Now Playing" || exit 0
+          git push
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Spotify Data
+        uses: jacc/music-box-action@latest
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated Spotify Now Playing" || exit 0
+          git push
