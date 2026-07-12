@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="46%" valign="top">
+    <td width="40%" valign="top">
       <img src="profile.svg" alt="Profile face" width="100%" />
     </td>
-    <td width="54%" valign="top">
+    <td width="90%" valign="top">
       <img src="profile_text.svg" alt="Profile text" width="100%" />
     </td>
   </tr>
