@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="468" height="326" viewBox="0 0 468 326">
+<rect width="100%" height="100%" fill="#0b0f14"/>
+<text x="10" y="30" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">username@hostname</tspan>
+</text>
+<text x="10" y="44" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#f5f7fa">-------------------------------------------------------------</tspan>
+</text>
+<text x="10" y="58" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. OS: </tspan>
+<tspan x="52" fill="#9aa4b2">........................ </tspan>
+<tspan x="227" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="72" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Uptime: </tspan>
+<tspan x="80" fill="#9aa4b2">..................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="86" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Host: </tspan>
+<tspan x="66" fill="#9aa4b2">....................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="100" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Kernel: </tspan>
+<tspan x="80" fill="#9aa4b2">..................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="114" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. IDE: </tspan>
+<tspan x="59" fill="#9aa4b2">........................ </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="128" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">.</tspan>
+</text>
+<text x="10" y="142" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Languages.Programming: </tspan>
+<tspan x="185" fill="#9aa4b2">...... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="156" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Languages.Computer: </tspan>
+<tspan x="164" fill="#9aa4b2">......... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="170" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Languages.Real: </tspan>
+<tspan x="136" fill="#9aa4b2">............. </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="184" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">.</tspan>
+</text>
+<text x="10" y="198" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Hobbies: </tspan>
+<tspan x="87" fill="#9aa4b2">.................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="212" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">- Contact -----------------------------------------------------</tspan>
+</text>
+<text x="10" y="226" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Email: </tspan>
+<tspan x="73" fill="#9aa4b2">...................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="240" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. LinkedIn: </tspan>
+<tspan x="94" fill="#9aa4b2">................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="254" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. GitHub: </tspan>
+<tspan x="80" fill="#9aa4b2">..................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="268" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">- GitHub Stats -------------------------------------------------</tspan>
+</text>
+<text x="10" y="282" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Repos: </tspan>
+<tspan x="73" fill="#9aa4b2">...................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="296" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Commits: </tspan>
+<tspan x="87" fill="#9aa4b2">.................... </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+<text x="10" y="310" font-family="monospace" font-size="12" xml:space="preserve">
+<tspan x="10" fill="#ff9f1c">. Followers: </tspan>
+<tspan x="101" fill="#9aa4b2">.................. </tspan>
+<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+</text>
+</svg>
