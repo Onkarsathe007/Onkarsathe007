@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="468" height="326" viewBox="0 0 468 326">
 <rect width="100%" height="100%" fill="#0b0f14"/>
 <text x="10" y="30" font-family="monospace" font-size="12" xml:space="preserve">
-<tspan x="10" fill="#ff9f1c">username@hostname</tspan>
+<tspan x="10" fill="#ff9f1c">onkar@archlinux</tspan>
 </text>
 <text x="10" y="44" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#f5f7fa">-------------------------------------------------------------</tspan>
@@ -9,27 +9,27 @@
 <text x="10" y="58" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. OS: </tspan>
 <tspan x="52" fill="#9aa4b2">........................ </tspan>
-<tspan x="227" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="227" fill="#9fd7ff">Arch Linux, Android 14</tspan>
 </text>
 <text x="10" y="72" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Uptime: </tspan>
 <tspan x="80" fill="#9aa4b2">..................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">21 years, 4 months, 2 days</tspan>
 </text>
 <text x="10" y="86" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Host: </tspan>
 <tspan x="66" fill="#9aa4b2">....................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">Wolters Kluwer India</tspan>
 </text>
 <text x="10" y="100" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Kernel: </tspan>
 <tspan x="80" fill="#9aa4b2">..................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">Linux 6.18.38-1-lts</tspan>
 </text>
 <text x="10" y="114" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. IDE: </tspan>
 <tspan x="59" fill="#9aa4b2">........................ </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">Neovim</tspan>
 </text>
 <text x="10" y="128" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">.</tspan>
@@ -37,17 +37,17 @@
 <text x="10" y="142" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Languages.Programming: </tspan>
 <tspan x="185" fill="#9aa4b2">...... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">English</tspan>
 </text>
 <text x="10" y="156" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Languages.Computer: </tspan>
 <tspan x="164" fill="#9aa4b2">......... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">Go</tspan>
 </text>
 <text x="10" y="170" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Languages.Real: </tspan>
 <tspan x="136" fill="#9aa4b2">............. </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">English, Hindi, Marathi</tspan>
 </text>
 <text x="10" y="184" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">.</tspan>
@@ -55,7 +55,7 @@
 <text x="10" y="198" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Hobbies: </tspan>
 <tspan x="87" fill="#9aa4b2">.................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">Dance, Run, Gym</tspan>
 </text>
 <text x="10" y="212" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">- Contact -----------------------------------------------------</tspan>
@@ -63,17 +63,17 @@
 <text x="10" y="226" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. Email: </tspan>
 <tspan x="73" fill="#9aa4b2">...................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">contact@onkarsathe.co.in</tspan>
 </text>
 <text x="10" y="240" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. LinkedIn: </tspan>
 <tspan x="94" fill="#9aa4b2">................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">onkarsathe07</tspan>
 </text>
 <text x="10" y="254" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">. GitHub: </tspan>
 <tspan x="80" fill="#9aa4b2">..................... </tspan>
-<tspan x="234" fill="#9fd7ff">[PLACEHOLDER]</tspan>
+<tspan x="234" fill="#9fd7ff">you are here</tspan>
 </text>
 <text x="10" y="268" font-family="monospace" font-size="12" xml:space="preserve">
 <tspan x="10" fill="#ff9f1c">- GitHub Stats -------------------------------------------------</tspan>
