@@ -9,6 +9,6 @@
     <a href="https://github.com/onkars-codebook">Codebook</a>
     <br />
     <br />
-    Contact: <a href="mailto:contact@onkarsathe.co.in">contact@onkarsathe.co.in</a>
+    Contact:<a href="mailto:contact@onkarsathe.co.in">contact@onkarsathe.co.in</a>
   </samp>
 </p>
