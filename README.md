@@ -1,17 +1,4 @@
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <img src="profile.svg" alt="Profile face" width="100%" />
-    </td>
-    <td width="100%" valign="top">
-      <img src="profile_text.svg" alt="Profile text" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!--
-Resize by changing the td widths above.
-For example:
-  50% / 50%  -> balanced
-  40% / 60%  -> smaller face, larger text
--->
+<div style="display:flex; align-items:flex-start; gap:0; margin:0; padding:0;">
+  <img src="profile.svg" alt="Profile face" style="display:block; width:38%; margin:0; padding:0;" />
+  <img src="profile_text.svg" alt="Profile text" style="display:block; width:62%; margin:0; padding:0;" />
+</div>
